@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "FAQPage",
+  "mainEntity" : [{
+    "@type" : "Question",
+    "name" : "VRAAG",
+    "answerCount" : "1",
+    "acceptedAnswer" : {
+      "@type" : "Answer",
+      "text" : "ALINEA"
+    }  
+    },{
+  "@type" : "Question",
+  "name" : "VRAAG ",
+    "answerCount" : "1",
+    "acceptedAnswer" : {
+      "@type" : "Answer",
+      "text" : "ALINEA"
+    }
+    },{
+  "@type" : "Question",
+  "name" : "VRAAG",
+    "answerCount" : "1",
+    "acceptedAnswer" : {
+      "@type" : "Answer",
+      "text" : "ALINEA"
+    }
+    }]
+}
+</script>
